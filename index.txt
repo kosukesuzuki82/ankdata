@@ -1,0 +1,6 @@
+Ank2.php = トップページ
+index_first.php =　アンケートページ
+index_second.php = 登録処理ページ
+index_third.php = リスト表示ページ
+index_fourth.php = 更新ページ
+index_fifth.php = 更新処理ページ

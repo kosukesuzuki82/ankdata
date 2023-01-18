@@ -1,0 +1,16 @@
+body{
+  background-color: skyblue;
+}
+header{
+  text-align: center;
+  font-size: 32px;
+  color: white;
+  background-color: black;
+  margin: 0 0 10px 0;
+}
+
+.ques{
+  display: flex;
+  flex-wrap: wrap;
+
+}
